@@ -5,7 +5,7 @@ My misc formulae for the Homebrew package manager
 ## Usage
 
 ```
-$ brew tap banyan/misc
+brew tap banyan/misc
 ```
 
 ## Formulae
