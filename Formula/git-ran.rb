@@ -1,8 +1,8 @@
 class GitRan < Formula
   desc     "Commit with last command you ran"
   homepage "https://github.com/banyan/git-ran"
-  url      "https://github.com/banyan/git-ran/archive/1.0.0.tar.gz"
-  sha256   "dc84e7c3525b4dcaf699e18d7d04521e0f83b5359dfb1ff8e7e8fe947d6ee35e"
+  url      "https://github.com/banyan/git-ran/archive/1.0.1.tar.gz"
+  sha256   "90099c5415f7d0bb706efa77b26bc21088459052e9e9f759e746467e429949cf"
 
   def install
     bin.install "git-ran"
